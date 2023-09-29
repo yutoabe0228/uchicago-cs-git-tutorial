@@ -1,3 +1,4 @@
+Hopefully our last change...
 One more change!
 Git is pretty cool
 Hello world!
